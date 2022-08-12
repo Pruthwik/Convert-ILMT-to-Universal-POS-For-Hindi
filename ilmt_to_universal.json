@@ -1,0 +1,15 @@
+{ 
+	"NN.*|NST.*": "NOUN",
+	"NNP.*": "PROPN",
+	"PRP.*": "PRON",
+	"DEM.*": "DET",
+	"VM.*": "VERB",
+	"VAUX.*": "AUX",
+	"JJ.*|INTF.*|QF.*|QO.*": "ADJ",
+	"RP.*|RDP.*": "PRT",
+	"RB.*": "ADV",
+	"PSP.*": "PSP",
+	"INJ.*": "INTJ",
+	"QC.*": "NUM",
+	"NEG.*|WQ.*|CL.*|UNK.*|FW.*|ECH.*|UT.*": "X"
+}
