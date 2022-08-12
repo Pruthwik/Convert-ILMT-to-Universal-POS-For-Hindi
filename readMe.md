@@ -1,3 +1,4 @@
+# This code is to convert ILMT POS Tags to Universal POS tags for Hindi, where the file is in CoNLL format.
 # How to run the code
 python convert_ilmt_to_universal_pos_tag.py --input sample-hin-ilmt.txt --map ilmt_to_universal.json --output sample-hin-universal.txt
 
